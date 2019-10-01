@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566397347371.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3320882894",
+    "id" : "12348FD2",
+    "lastKnownWriteTime" : 1566858512,
+    "last_content_update" : 1566858512853,
+    "path" : "C:/Users/Aleksa/Desktop/churn/kod/kod.R",
+    "project_path" : "kod.R",
+    "properties" : {
+        "cursorPosition" : "51,50",
+        "scrollLine" : "40",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
